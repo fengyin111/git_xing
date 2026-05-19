@@ -1,0 +1,24 @@
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.cache
+
+# Common build output
+dist/
+build/
+out/
+node_modules/
